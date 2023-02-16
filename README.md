@@ -1,4 +1,4 @@
-# PatikaSQL
+# PatikaSQL - https://app.patika.dev/ScienceHunter
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
 1. film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
